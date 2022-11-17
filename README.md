@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Hyunjin Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=icecreamp&show_icons=true&bg_color=00000000)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=icecreamp)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icecreamp&layout=compact)](https://github.com/icecreamp/github-readme-stats)
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/icecreamp/hits/)
