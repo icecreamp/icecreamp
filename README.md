@@ -1,57 +1,56 @@
-### Hi there 👋
+# Hello, world! 👋 [![Hits](https://hits.sh/github.com/icecreamp/hits.svg?label=%F0%9F%91%8B&labelColor=ffffff)](https://hits.sh/github.com/icecreamp/hits/)
 
-  
+<br/>
 
-### <div>
+### Who am I ?
 
-const hyunjin = { <br/>
-			name: 'Hyunjin Kim’,  <br/>
-			skills: [C#, MySQL, HTML, CSS, Javascript, ReactNative], <br/>
-			interests: ['reading', 'fitness', 'photography', 'bass'],  <br/>
-			keywords: ['#confidence', '#sociable', '#ambitious', 'responsible', '#ISTJ']  <br/>
+```
+
+const hyunjin = { 
+			name: 'Hyunjin Kim’,  
+			interests: ['📚', '🏋️‍♀️', '📷', '🎸'],  
+			keywords: ['#confidence', '#sociable', '#ambitious', 'responsible', '#ISTJ'] 
 };
-</div>  
-  
-  
-
-<br/>  
-
-
-## Skill
-<table><tr><td valign="top" width="33%">
+```
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+#
+
+### Skills
+
+<div align="center">  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a> 
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a> 
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+
+</div>
 
 
-</td><td valign="top" width="33%">
+
+<br/>
+
+#
 
 
-<br/>  
+### Progress
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=icecreamp)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icecreamp&layout=compact)](https://github.com/icecreamp/github-readme-stats)
+
+#
+
+### ✌ Connect with me
 
 
-## Connect with me  
 <div>
 <a href="https://www.linkedin.com/in/hyunjin-kim-4593ba256/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=icecreamp)](https://git.io/streak-stats)  
-
-<br/>  
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icecreamp&layout=compact)](https://github.com/icecreamp/github-readme-stats)
-
-<br/>
-
-[![Hits](https://hits.sh/github.com/icecreamp/hits.svg?label=%F0%9F%91%8B&labelColor=ffffff)](https://hits.sh/github.com/icecreamp/hits/)
