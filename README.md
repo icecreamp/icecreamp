@@ -9,7 +9,7 @@
 const hyunjin = { 
 			name: 'Hyunjin Kim’,  
 			interests: ['📚', '🏋️‍♀️', '📷', '🎸'],  
-			keywords: ['#confidence', '#sociable', '#ambitious', 'responsible', '#ISTJ'] 
+			keywords: ['#confidence', '#sociable', '#ambitious', '#responsible', '#ISTJ'] 
 };
 ```
 
