@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![Hyunjin Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=icecreamp&show_icons=true&bg_color=00000000)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=icecreamp)](https://git.io/streak-stats)
