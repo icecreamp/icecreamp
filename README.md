@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-	<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div>
 
-const hyunjin = { 
-			name: 'Hyunjin Kim’, 
-			skills: [C#, MySQL, HTML, CSS, Javascript, ReactNative],
-			interests: ['reading', 'fitness', 'photography', 'bass'], 
-			keywords: ['#confidence', '#sociable', '#ambitious', 'responsible', '#ISTJ'] 
+const hyunjin = { <br/>
+			name: 'Hyunjin Kim’,  <br/>
+			skills: [C#, MySQL, HTML, CSS, Javascript, ReactNative], <br/>
+			interests: ['reading', 'fitness', 'photography', 'bass'],  <br/>
+			keywords: ['#confidence', '#sociable', '#ambitious', 'responsible', '#ISTJ']  <br/>
 };
 </div>  
   
@@ -44,9 +41,6 @@ const hyunjin = {
 
 </td><td valign="top" width="33%">
 
-
-
-</td></tr></table>  
 
 <br/>  
 
